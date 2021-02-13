@@ -21,11 +21,13 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 15
+  limit: 12
   exclude:
     archived: false
     forks: true
     projects:
+      - FlightSchool
+      - PadLock
     # - repo-name
 
 social_media:
